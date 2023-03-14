@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97cdfaad.css",
+    "main.js": "/static/js/main.96b834d0.js",
+    "static/media/room.jpg": "/static/media/room.6e53f919bae09aa225ae.jpg",
+    "static/media/3.jpg": "/static/media/3.ccb788c3d61892c8fac2.jpg",
+    "static/media/2.jpg": "/static/media/2.140132394920a79a2842.jpg",
+    "static/media/1.jpg": "/static/media/1.f42da15f4f8393bf65b7.jpg",
+    "static/media/6-lg.png": "/static/media/6-lg.d46d47d89c85ceef5433.png",
+    "static/media/7-lg.png": "/static/media/7-lg.9c58c430eb1b245f3ea6.png",
+    "static/media/3-lg.png": "/static/media/3-lg.176be0445c9c9e7b240e.png",
+    "static/media/1-lg.png": "/static/media/1-lg.ae11850473226309566c.png",
+    "static/media/4-lg.png": "/static/media/4-lg.81fffece8e1b13e7f017.png",
+    "static/media/5-lg.png": "/static/media/5-lg.e6a83a0199ae565bc6fa.png",
+    "static/media/8-lg.png": "/static/media/8-lg.6be5b55f742d8090d169.png",
+    "static/media/2-lg.png": "/static/media/2-lg.48875beb5ed55e6c5000.png",
+    "static/media/6.png": "/static/media/6.9b96b52ad53e07327228.png",
+    "static/media/3.png": "/static/media/3.8e1c80e68fc3cc53ffd2.png",
+    "static/media/7.png": "/static/media/7.351dfd5366146938211f.png",
+    "static/media/1.png": "/static/media/1.b1519367e1123b8013a0.png",
+    "static/media/4.png": "/static/media/4.a0125ee5f3e0b92882b7.png",
+    "static/media/5.png": "/static/media/5.4b2bb5a51225df6a8c66.png",
+    "static/media/8.png": "/static/media/8.298c9dfcd1aef958e8d7.png",
+    "static/media/2.png": "/static/media/2.247764e37b47bedd9841.png",
+    "static/media/logo-dark.svg": "/static/media/logo-dark.ad2c8f6c2b529ca08086fe26c59331e4.svg",
+    "static/media/logo-white.svg": "/static/media/logo-white.b9361ef12c8ea002e790ec9dfd1f0153.svg",
+    "index.html": "/index.html",
+    "main.97cdfaad.css.map": "/static/css/main.97cdfaad.css.map",
+    "main.96b834d0.js.map": "/static/js/main.96b834d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97cdfaad.css",
+    "static/js/main.96b834d0.js"
+  ]
+}
